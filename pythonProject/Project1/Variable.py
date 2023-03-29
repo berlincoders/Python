@@ -1,4 +1,12 @@
-print("there once was a man named John, ")
-print("he was 35 years old.")
-print("he really like the name John")
-print("but didn´t like  being 35 ")
+
+# Variable use
+character_name="Tom"
+character_age= "50"
+is_male=False
+
+print("there once was a man named "+ character_name +", ")
+print("he was "+ character_age +" years old.")
+
+character_name="Mike"
+print("he really like the name "+ character_name +". ")
+print("but didn´t like  being "+ character_age +" ")
