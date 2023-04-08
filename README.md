@@ -1,4 +1,4 @@
-# python beginner course
+# Python beginner course
 
   Introduction              
   Install Python and PyCharm.            
