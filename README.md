@@ -1,6 +1,6 @@
 # python beginner course
 
-  Introduction
+  Introduction              
   Install Python and PyCharm
   Settings and "Hello World"
   Draw a shape
