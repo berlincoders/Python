@@ -1,5 +1,14 @@
 
 # Variable use
+#minusculas y barra baja
+
+EineKlasse="Klasse"
+
+
+
+
+
+
 character_name="Tom"
 character_age= "50"
 is_male=False
