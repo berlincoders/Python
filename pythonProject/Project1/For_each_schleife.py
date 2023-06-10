@@ -19,13 +19,17 @@ obstkorb=["Apfel","Banane","Erdberre","Melone"]
 
 for obst in obstkorb:
     print(obst)
-print("Ende")
+print("Finally finished")
 
 ############## Schleife abbrechen ################, Break , Continue
 
 for i in range(5):
     if i == 3: break   # Oder Continue, springt eine numer , is it is not working
     print(i)
+
+# python strings operations,  w3 schooll.com
+
+
 
 
 

@@ -1,4 +1,60 @@
 # the sentence if must be at the begining of the line
+#If Anweisung
+
+
+#if (True):
+#  print ("es is wahr") # muy importante la tabulacion
+
+########## Alles comentieren
+
+#if (100>80 and "abcde"<"z"):
+#    print("es ist wahr")
+
+#if ((100>80 and "abcde"<"z")  and 4==4*2):
+#   print("es ist wahr")
+#
+# else:
+#    print(" das da oben ist falsch")
+
+#angabe= "8"
+#if (type(angabe)==int):
+#    print("integer")
+#elif (type(angabe)==bool):
+#    print("boolean")
+#elif (type(angabe)==str):
+#    print("string")
+#elif (type(angabe)==float):
+#    print("float")
+#else:
+# print("Datetyp unbekannt")
+# Diferencias entre if y ifelse
+
+
+#####################################
+
+gehalt= 5000
+
+if(gehalt>=2000):
+    print("Gut  Verdiener")
+    if(gehalt>5000):
+       print("Top Verdiener")
+    else:
+        print("gehalt zwisen 200 un 5000 oder gleich  5000")
+else:
+    print("Gehalt kleiner 2000")
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 is_male = False
 is_tall = False

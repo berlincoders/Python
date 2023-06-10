@@ -9,9 +9,9 @@ EineKlasse="Klasse"
 
 
 
-character_name="Tom"
-character_age= "50"
-is_male=False
+character_name="Tom"    # string
+character_age= "50"     # string
+is_male=False           # Boolean
 
 print("there once was a man named "+ character_name +", ")
 print("he was "+ character_age +" years old.")

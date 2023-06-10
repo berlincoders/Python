@@ -1,5 +1,8 @@
 # List it is an Array
 
+
+
+
 friends=["Kevin","Julia","Karen","Jim"]
 print(friends[-3])
 friends[1]="Mike"
