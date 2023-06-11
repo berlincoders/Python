@@ -31,6 +31,41 @@ for i in range(5):
 
 
 
+li=[1,2,3,4,5,6,7]
+print(li)
+for element in li:
+     print(element)
+
+for element in li:
+     print(element)
+     print("rechnne")
+     print(element*100)
+     print()
+print("Schleife Ende")
+
+
+teilnemher_liste=["Anton","Berta","Carl"]
+gesuchte="Max"   # try with Max
+
+for teilnemer in teilnemher_liste:
+
+   # print(teilnemer)
+
+    if teilnemer == gesuchte:
+        print("Gefunden")
+
+    else:
+        print(f"{gesuchte} ist nicht dabei")
+        teilnemher_liste.append(gesuchte)
+        break
+print(teilnemher_liste)
+
+
+
+
+
+
+
 
 
 
